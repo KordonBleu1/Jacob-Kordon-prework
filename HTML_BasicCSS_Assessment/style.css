@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  line-height: 1.5;
+  text-transform: uppercase;
+  background-color:#79b9c5;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+.content {
+  text-align: center;
+  font-weight: bold;
+}
+h1{
+  font-size: 70px;
+  font-weight: bold;
+}
+
+.button{
+  margin: auto;
+  text-align: center;
+  border: white;
+  border-style: solid;
+  border-width: 2px;
+  width: 180px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+#tagline {
+  color: black;
+  font-weight: lighter;
+}
