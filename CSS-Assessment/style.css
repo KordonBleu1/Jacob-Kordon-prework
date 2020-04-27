@@ -1,0 +1,32 @@
+body{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+nav {
+    background-color: grey;
+}
+
+div {
+    margin-top: 20px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+#blue {
+    float: left;
+    background-color: blue;
+    width: 50%
+}
+#red {
+    float: right;
+    background-color: red;
+    width: 25%;
+}
+
+footer{
+    background-color: green;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
